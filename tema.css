@@ -1,0 +1,9 @@
+body{
+    background-color:black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    padding: 0px 50px;
+}
